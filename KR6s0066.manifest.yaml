@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR6s0066/v1
+canonical_location: https://kanripo.org/bkk/KR6s0066/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大明太宗文皇帝御製文殊讚
+  identifiers:
+    alt_id:
+    - G083n2073
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G083/G083n2073.xml
+    old_id: G083n2073
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0066_000.yaml, hash: 'sha256:688722dfa990c7903a4ab2c9ed34fb070e5f688e61c7da261952361171703df7'}
+  - {seq: 1, filename: KR6s0066_001.yaml, hash: 'sha256:5f7e8baa1abd6e1cfceee5502a8d27c78f2e79970799e0240c834a4357281169'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0066_001.markers.yaml, hash: 'sha256:4ded671bc0c2caa36bbb17c9771566b1720efb8b4cc1dcde32365c1cad6410de'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0066_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 420
+  label: 大明太宗文皇帝御製文殊讚
+  type: juan
+  level: 1
+hash: sha256:0036491544a205c0e0d3a8816348a0138952190f5dc4d973321a11a2c94c5e5c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

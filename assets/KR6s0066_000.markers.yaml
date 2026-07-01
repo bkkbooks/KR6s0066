@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6s0066/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR6s0066_G_000-0006a08, ed: G, 'n': 0006a08}
+  body: []
+  back: []
+hash: sha256:309f271b0c0ec1a7400a5e96b535f2f88bd7eb6dcd419939da3012eae1f1bd51

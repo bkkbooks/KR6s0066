@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0066/g/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大明太宗文皇帝御製文殊讚
+  edition:
+    short: g
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G083/G083n2073.xml
+    old_id: G083n2073
+hash: sha256:688722dfa990c7903a4ab2c9ed34fb070e5f688e61c7da261952361171703df7
