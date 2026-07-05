@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6s0066_000.yaml, hash: 'sha256:688722dfa990c7903a4ab2c9ed34fb070e5f688e61c7da261952361171703df7'}
-  - {seq: 1, filename: KR6s0066_001.yaml, hash: 'sha256:5f7e8baa1abd6e1cfceee5502a8d27c78f2e79970799e0240c834a4357281169'}
+  - {seq: 1, filename: KR6s0066_001.yaml, hash: 'sha256:ce125b93c55c1fb38c6b6c0fe57f8ad198b127e1cbf1ba4a445a5804bfcdad3c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0066_001.markers.yaml, hash: 'sha256:4ded671bc0c2caa36bbb17c9771566b1720efb8b4cc1dcde32365c1cad6410de'}
+  - {seq: 0, role: markers, filename: assets/KR6s0066_000.markers.yaml, hash: 'sha256:309f271b0c0ec1a7400a5e96b535f2f88bd7eb6dcd419939da3012eae1f1bd51'}
+  - {seq: 1, role: markers, filename: assets/KR6s0066_001.markers.yaml, hash: 'sha256:2afea29130b761c66ce877d606fb482999e72872da84c19bfc506d7bf15f8e85'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +32,4 @@ table_of_contents:
   label: 大明太宗文皇帝御製文殊讚
   type: juan
   level: 1
-hash: sha256:0036491544a205c0e0d3a8816348a0138952190f5dc4d973321a11a2c94c5e5c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6ea4373a14a91dfbe5c180c6342c31472fc445ebf07b4e94066d72abc713c39c
