@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6s0066/v1
 canonical_location: https://kanripo.org/bkk/KR6s0066/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大明太宗文皇帝御製文殊讚
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6s0066_000.yaml, hash: 'sha256:688722dfa990c7903a4ab2c9ed34fb070e5f688e61c7da261952361171703df7'}
-  - {seq: 1, filename: KR6s0066_001.yaml, hash: 'sha256:ce125b93c55c1fb38c6b6c0fe57f8ad198b127e1cbf1ba4a445a5804bfcdad3c'}
+  - {seq: 1, filename: KR6s0066_001.yaml, hash: 'sha256:0f15575c4956b66f40a68b5893ab4c3770ff6687a66e51949f825310173e7331'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6s0066_000.markers.yaml, hash: 'sha256:309f271b0c0ec1a7400a5e96b535f2f88bd7eb6dcd419939da3012eae1f1bd51'}
-  - {seq: 1, role: markers, filename: assets/KR6s0066_001.markers.yaml, hash: 'sha256:2afea29130b761c66ce877d606fb482999e72872da84c19bfc506d7bf15f8e85'}
+  - {seq: 1, role: markers, filename: assets/KR6s0066_001.markers.yaml, hash: 'sha256:edfe04d1746d5e027ca4b6e08769a7e75e0caa1a56aa9b1c8ef10797ac1eb5cf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,4 +32,7 @@ table_of_contents:
   label: 大明太宗文皇帝御製文殊讚
   type: juan
   level: 1
-hash: sha256:6ea4373a14a91dfbe5c180c6342c31472fc445ebf07b4e94066d72abc713c39c
+hash: sha256:bab7b0b62bd12ec0ea2fe711c108f867472687ff7428044ed3e5353b0c4ba7ec
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
